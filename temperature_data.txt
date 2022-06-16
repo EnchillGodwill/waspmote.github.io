@@ -1,0 +1,4 @@
+timestamp: Mon Jun 13 22:43:10 2022reading: -0.35timestamp: Mon Jun 13 22:44:55 2022
+reading: -0.35
+timestamp: Mon Jun 13 22:48:06 2022
+reading: -0.35
